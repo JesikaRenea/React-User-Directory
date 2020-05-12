@@ -1,3 +1,63 @@
+
+  # React Employee Directory
+  
+  ## Description 
+  For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+  
+  ## User Story
+  
+  As a:
+   User 
+  
+  I want to:
+   be able to view my entire employee directory at once
+   
+  So that I can: 
+    have quick access to their information.
+
+  ---
+  
+  
+  ## Table of Contents
+  
+  * [Installation] npm i
+  
+  * [Usage] An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+  
+
+  ---
+  
+  ## Badges
+    
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+  
+
+  ## Screenshots
+![SS.png](/public/SS.png)
+
+
+  ## Links 
+
+  [Visit Portfolio Page](https://JesikaRenea.github.io/)
+
+  [Github Repo: React Employee Directory](https://github.com/JesikaRenea/React-User-Directory)
+
+  [Deployed GitHub Pages App](https://jesikarenea.github.io/React-User-Directory/)
+
+  ## For Questions Contact:
+
+  JesikaRenea:
+
+  [![JesikaRenea](https://avatars1.githubusercontent.com/u/57422359?v=4)](https://github.com/JesikaRenea)
+
+  [JesikaRenea](https://github.com/JesikaRenea)
+  
+
+---
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
